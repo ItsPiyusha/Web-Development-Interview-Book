@@ -1,3 +1,6 @@
+div vs span
+
+
 Decides the structure of the website, where to place what on a page
 Here’s a practical roadmap of what you should know about **HTML** as a web developer — from basic tags to interview-level understanding.
 
