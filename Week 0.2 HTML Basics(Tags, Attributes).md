@@ -1,6 +1,8 @@
-div vs span
-h1 is the biggest text
-h6 is the smallest
+* div vs span  
+* h1 is the biggest text  
+* h6 is the smallest  
+* p, div , no tag at all gives same output
+
 
 Decides the structure of the website, where to place what on a page
 Here’s a practical roadmap of what you should know about **HTML** as a web developer — from basic tags to interview-level understanding.
